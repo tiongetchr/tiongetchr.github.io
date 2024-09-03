@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tiongetchr.github.io/sitemap.html.gz
+Sitemap: https://tiongetchr.github.io/app/sitemap.html.gz
+Sitemap: https://tiongetchr.github.io/assets/sitemap.html.gz
+Sitemap: https://tiongetchr.github.io/css/sitemap.html.gz
+Sitemap: https://tiongetchr.github.io/includes/sitemap.html.gz
+Sitemap: https://tiongetchr.github.io/item/sitemap.html.gz
+Sitemap: https://tiongetchr.github.io/src/sitemap.html.gz
